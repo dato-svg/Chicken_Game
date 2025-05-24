@@ -1,6 +1,6 @@
 # Название проекта
 
-![Скриншот](Assets\Images\Chicken_1.png)
+![Скриншот](https://github.com/dato-svg/Chicken_Game/blob/main/Chicken_Game/Assets/Images/Chicken_1.png)  
 ![Скриншот](Images/Chicken_2.png)
 ![Скриншот](Images/Chicken_3.png)
 ![Скриншот](Images/Chicken_4.png)
